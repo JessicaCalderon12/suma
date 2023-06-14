@@ -1,0 +1,12 @@
+div
+{
+	background: #F5CBA7;
+	border: 1px;
+	border-style: dashed;
+	height: 50px;
+	width: 205px;
+	margin-top: 1%;
+}
+body{
+	background:  #EAF2F8;
+}
